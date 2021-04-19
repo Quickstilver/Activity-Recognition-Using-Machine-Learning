@@ -1,0 +1,18 @@
+Resolution of an Activity Recognition problem using different techniques:
+- KNN
+- SVM
+- Naive Bayes Classifier
+- QDA
+- Decision Tree
+- Random Forest
+- Gradient Boosting Classifier
+
+- FeedForward NEURAL NETWORK
+
+The dataset: http://cs.unibo.it/projects/us-tm2017/
+
+Was used the classical pipeline:
+Data Acqusition-> Data Preprocessing-> Data Modeling-> Data Evalutation.
+
+In the Preprocessing step was carried out also a dimensionality reduction using PCA to explore the comparison between results on the whole dataset and the reduced one.
+
